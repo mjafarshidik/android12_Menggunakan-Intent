@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chapter 5 Topic 4</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="explicit_intent">Explicit Intent</string>
+    <string name="bundle">Bundle</string>
+    <string name="serializable">Serializable</string>
+    <string name="parcelable">Parcelable</string>
+    <string name="results_will_appear_here">Results will appear here</string>
+    <string name="textview">TextView</string>
+</resources>
